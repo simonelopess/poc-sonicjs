@@ -11,12 +11,7 @@ kv_namespaces = [
 # D1 para persistência
 binding = "D1"
 database_name = "sonicjs"
-database_id = "aa5ba92-0185-455b-87be-af2cf7e4400a"
- 
-[[r2_buckets]]
-# R2 para ficheiros/media
-binding = "R2STORAGE"
-bucket_name = "sonicjs"
+database_id = "abaa5ba92-0185-455b-87be-af2cf7e4400a"
  
 [vars]
 # auth settings
