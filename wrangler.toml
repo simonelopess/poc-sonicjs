@@ -1,0 +1,10 @@
+# D1
+[[d1_databases]]
+binding = "D1"
+database_name = "sonicjs"
+database_id = "baa5ba92-0185-455b-87be-af2cf7e4400a"
+
+# KV
+[[kv_namespaces]]
+binding = "sonicjs_kv"
+id = "11f230d6e12147a182fdb1ef0bb0763f"
